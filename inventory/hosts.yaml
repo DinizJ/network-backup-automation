@@ -1,0 +1,11 @@
+# Inventário de Dispositivos de Rede de Exemplo
+- hostname: SW-ACCESS-01
+  ip: 192.168.1.10
+  device_type: cisco_ios
+  username: admin
+  password: SecretPassword123!
+- hostname: SW-CORE-01
+  ip: 192.168.1.1
+  device_type: cisco_ios
+  username: admin
+  password: SecretPassword123!
